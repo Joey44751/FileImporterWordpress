@@ -1,0 +1,11 @@
+{
+  "require": {
+    "parsecsv/php-parsecsv": "^1.3",
+    "nesbot/carbon": "^2.64"
+  },
+  "autoload": {
+    "psr-4": {
+      "joey\\uploader\\": "./"
+    }
+  }
+}
